@@ -33,8 +33,8 @@ On the backend, I work with various technologies to create robust and scalable s
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about technology! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sulaiman-shirzay/)
+- [Twitter](https://twitter.com/codeadapter)
+- [Email](sulaiman.rf3@gmail.com)
 
 Thanks for visiting my profile! Happy coding! 🚀
