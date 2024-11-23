@@ -20,11 +20,11 @@ On the backend, I work with various technologies to create robust and scalable s
 - **Node.js**: A JavaScript runtime that allows me to build server-side applications with ease.
 - **NestJS**: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
 - **Django**: A high-level Python framework that encourages rapid development and clean, pragmatic design.
-- **TypeScript**: I use TypeScript for better code quality and maintainability in my JavaScript applications.
-- **GraphQL**: I implement GraphQL for flexible and efficient data querying.
 
 ## 📈 Other Skills
 
+- **TypeScript**: I use TypeScript for better code quality and maintainability in my JavaScript applications.
+- **GraphQL**: I implement GraphQL for flexible and efficient data querying.
 - **Version Control**: Proficient in using Git and GitHub for version control and collaboration.
 - **APIs**: Experience in developing and consuming RESTful APIs and GraphQL APIs.
 - **Testing**: Familiar with testing frameworks like Jest and Mocha for ensuring code quality.
